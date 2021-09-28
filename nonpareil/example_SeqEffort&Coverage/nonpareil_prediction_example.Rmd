@@ -1,0 +1,41 @@
+---
+title: "nonpareil_prediction_example"
+author: "Jiaxian_Shen"
+date: "9/27/2021"
+output: html_document
+---
+
+# Introduction
+This script is an example of using nonpareil package to predict coverage by sequencing effort, or vice versa, given that diversity is known.
+
+# Steps
+1. Get the Nonpareil diversity (or diversity range) from the machine learning model
+2. Select several samples from the dataset representing the diversity (or diversity range)
+3. Follow the below scripts  to get the predictions (target coverage -> sequencing effort ; seq effort -> estimated coverage)
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Libraries ----
+library(dplyr)  
+library(Nonpareil)
+```
+
+
+```{r}
+# Predict coverage by sequencing effort and diversity----
+np_example <- Nonpareil.curve('example.npo')
+coverage <- predict(np_example,1.711330e+08)   # 1.711330e+08 is an example of the sequencing effort
+
+# get sequencing effort by targeted coverage and diversity----
+pa <- coef(np_example$model)[1]
+pb <- coef(np_example$model)[2]
+
+LR_0.9 <- Nonpareil.antif(0.9, pa, pb)  # sequencing effort at 90% coverage
+# note that the above operations only work for Formal class 'Nonpareil.Curve', not work for Formal class 'Nonpareil.Set'
+```
+
+
+
+

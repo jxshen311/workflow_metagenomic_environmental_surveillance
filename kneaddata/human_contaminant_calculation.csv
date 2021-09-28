@@ -1,0 +1,273 @@
+sample_id,category_long,reads_no,category,sample_id_short_dot
+C-CDC-AG-Lu-1-1,Total reads after trimming ,525277,before,AG.1.1
+C-CDC-AG-Lu-1-1,Total reads after removing those found in reference database ,518330,after,AG.1.1
+C-CDC-AG-Lu-2-1,Total reads after trimming ,306899,before,AG.2.1
+C-CDC-AG-Lu-2-1,Total reads after removing those found in reference database ,303010,after,AG.2.1
+C-CDC-AG-Lu-3-1,Total reads after trimming ,402630,before,AG.3.1
+C-CDC-AG-Lu-3-1,Total reads after removing those found in reference database ,397159,after,AG.3.1
+C-CDC-AG-Lu-1-5,Total reads after trimming ,442053,before,AG.1.5
+C-CDC-AG-Lu-1-5,Total reads after removing those found in reference database ,436461,after,AG.1.5
+C-CDC-AG-Lu-2-5,Total reads after trimming ,387606,before,AG.2.5
+C-CDC-AG-Lu-2-5,Total reads after removing those found in reference database ,382612,after,AG.2.5
+C-CDC-AG-Lu-3-5,Total reads after trimming ,338963,before,AG.3.5
+C-CDC-AG-Lu-3-5,Total reads after removing those found in reference database ,334489,after,AG.3.5
+C-CDC-AG-Lu-1-10,Total reads after trimming ,366926,before,AG.1.10
+C-CDC-AG-Lu-1-10,Total reads after removing those found in reference database ,362150,after,AG.1.10
+C-CDC-AG-Lu-2-10,Total reads after trimming ,405951,before,AG.2.10
+C-CDC-AG-Lu-2-10,Total reads after removing those found in reference database ,401078,after,AG.2.10
+C-CDC-AG-Lu-3-10,Total reads after trimming ,404324,before,AG.3.10
+C-CDC-AG-Lu-3-10,Total reads after removing those found in reference database ,398663,after,AG.3.10
+C-CDC-IP-Lu-1-1,Total reads after trimming ,290610,before,IP.1
+C-CDC-IP-Lu-1-1,Total reads after removing those found in reference database ,290610,after,IP.1
+C-CDC-IP-Lu-2-1,Total reads after trimming ,181629,before,IP.2
+C-CDC-IP-Lu-2-1,Total reads after removing those found in reference database ,181628,after,IP.2
+C-CDC-IP-Lu-3-1,Total reads after trimming ,207542,before,IP.3
+C-CDC-IP-Lu-3-1,Total reads after removing those found in reference database ,207542,after,IP.3
+C-CDC-IN-Lu-1-1,Total reads after trimming ,248567,before,IN.1
+C-CDC-IN-Lu-1-1,Total reads after removing those found in reference database ,246092,after,IN.1
+C-CDC-IN-Lu-2-1,Total reads after trimming ,198065,before,IN.2
+C-CDC-IN-Lu-2-1,Total reads after removing those found in reference database ,197155,after,IN.2
+C-CDC-IN-Lu-3-1,Total reads after trimming ,222629,before,IN.3
+C-CDC-IN-Lu-3-1,Total reads after removing those found in reference database ,220628,after,IN.3
+C-CDC-NP-Lu-1-1,Total reads after trimming ,279281,before,NP.1
+C-CDC-NP-Lu-1-1,Total reads after removing those found in reference database ,279277,after,NP.1
+C-CDC-NP-Lu-2-1,Total reads after trimming ,258264,before,NP.2
+C-CDC-NP-Lu-2-1,Total reads after removing those found in reference database ,258263,after,NP.2
+C-CDC-NP-Lu-3-1,Total reads after trimming ,224236,before,NP.3
+C-CDC-NP-Lu-3-1,Total reads after removing those found in reference database ,224233,after,NP.3
+C-CDC-IPN-Lu-1-1,Total reads after trimming ,226959,before,IPN.1
+C-CDC-IPN-Lu-1-1,Total reads after removing those found in reference database ,226958,after,IPN.1
+C-CDC-IPN-Lu-2-1,Total reads after trimming ,204330,before,IPN.2
+C-CDC-IPN-Lu-2-1,Total reads after removing those found in reference database ,204330,after,IPN.2
+C-CDC-IPN-Lu-3-1,Total reads after trimming ,241895,before,IPN.3
+C-CDC-IPN-Lu-3-1,Total reads after removing those found in reference database ,241894,after,IPN.3
+C-CDC-NPN-Lu-1-1,Total reads after trimming ,223341,before,NPN.1
+C-CDC-NPN-Lu-1-1,Total reads after removing those found in reference database ,223338,after,NPN.1
+C-CDC-NPN-Lu-2-1,Total reads after trimming ,213165,before,NPN.2
+C-CDC-NPN-Lu-2-1,Total reads after removing those found in reference database ,213165,after,NPN.2
+C-CDC-NPN-Lu-3-1,Total reads after trimming ,272336,before,NPN.3
+C-CDC-NPN-Lu-3-1,Total reads after removing those found in reference database ,272336,after,NPN.3
+C-CDC-SP-Lu-1-1,Total reads after trimming ,534,before,SP.1
+C-CDC-SP-Lu-1-1,Total reads after removing those found in reference database ,533,after,SP.1
+C-CDC-SP-Lu-2-1,Total reads after trimming ,392,before,SP.2
+C-CDC-SP-Lu-2-1,Total reads after removing those found in reference database ,390,after,SP.2
+C-CDC-SP-Lu-3-1,Total reads after trimming ,328,before,SP.3
+C-CDC-SP-Lu-3-1,Total reads after removing those found in reference database ,328,after,SP.3
+C-CDC-SN-Lu-1-1,Total reads after trimming ,157520,before,SN.1
+C-CDC-SN-Lu-1-1,Total reads after removing those found in reference database ,157516,after,SN.1
+C-CDC-SN-Lu-2-1,Total reads after trimming ,212777,before,SN.2
+C-CDC-SN-Lu-2-1,Total reads after removing those found in reference database ,212775,after,SN.2
+C-CDC-SN-Lu-3-1,Total reads after trimming ,216921,before,SN.3
+C-CDC-SN-Lu-3-1,Total reads after removing those found in reference database ,216917,after,SN.3
+C-CDC-NN-Lu-1-1,Total reads after trimming ,209938,before,NN.1
+C-CDC-NN-Lu-1-1,Total reads after removing those found in reference database ,207103,after,NN.1
+C-CDC-NN-Lu-2-1,Total reads after trimming ,109066,before,NN.2
+C-CDC-NN-Lu-2-1,Total reads after removing those found in reference database ,107534,after,NN.2
+C-CDC-NN-Lu-3-1,Total reads after trimming ,140428,before,NN.3
+C-CDC-NN-Lu-3-1,Total reads after removing those found in reference database ,138476,after,NN.3
+C-CDC-INN-Lu-1-1,Total reads after trimming ,165547,before,INN.1
+C-CDC-INN-Lu-1-1,Total reads after removing those found in reference database ,164061,after,INN.1
+C-CDC-INN-Lu-2-1,Total reads after trimming ,142121,before,INN.2
+C-CDC-INN-Lu-2-1,Total reads after removing those found in reference database ,141642,after,INN.2
+C-CDC-INN-Lu-3-1,Total reads after trimming ,166964,before,INN.3
+C-CDC-INN-Lu-3-1,Total reads after removing those found in reference database ,165485,after,INN.3
+C-CDC-NNN-Lu-1-1,Total reads after trimming ,274539,before,NNN.1
+C-CDC-NNN-Lu-1-1,Total reads after removing those found in reference database ,272092,after,NNN.1
+C-CDC-NNN-Lu-2-1,Total reads after trimming ,200094,before,NNN.2
+C-CDC-NNN-Lu-2-1,Total reads after removing those found in reference database ,198088,after,NNN.2
+C-CDC-NNN-Lu-3-1,Total reads after trimming ,219065,before,NNN.3
+C-CDC-NNN-Lu-3-1,Total reads after removing those found in reference database ,217150,after,NNN.3
+C-CDC-SPN-Lu-1-1,Total reads after trimming ,245,before,SPN.1
+C-CDC-SPN-Lu-1-1,Total reads after removing those found in reference database ,244,after,SPN.1
+C-CDC-SPN-Lu-2-1,Total reads after trimming ,3332,before,SPN.2
+C-CDC-SPN-Lu-2-1,Total reads after removing those found in reference database ,3328,after,SPN.2
+C-CDC-SPN-Lu-3-1,Total reads after trimming ,4187,before,SPN.3
+C-CDC-SPN-Lu-3-1,Total reads after removing those found in reference database ,4185,after,SPN.3
+C-CDC-SNN-Lu-1-1,Total reads after trimming ,204230,before,SNN.1
+C-CDC-SNN-Lu-1-1,Total reads after removing those found in reference database ,204228,after,SNN.1
+C-CDC-SNN-Lu-2-1,Total reads after trimming ,235994,before,SNN.2
+C-CDC-SNN-Lu-2-1,Total reads after removing those found in reference database ,235990,after,SNN.2
+C-CDC-SNN-Lu-3-1,Total reads after trimming ,208237,before,SNN.3
+C-CDC-SNN-Lu-3-1,Total reads after removing those found in reference database ,208233,after,SNN.3
+C-CDC-IPF100-Lu-1-1,Total reads after trimming ,148447,before,IPF100.1
+C-CDC-IPF100-Lu-1-1,Total reads after removing those found in reference database ,148445,after,IPF100.1
+C-CDC-IPF100-Lu-2-1,Total reads after trimming ,293128,before,IPF100.2
+C-CDC-IPF100-Lu-2-1,Total reads after removing those found in reference database ,293114,after,IPF100.2
+C-CDC-IPF100-Lu-3-1,Total reads after trimming ,374306,before,IPF100.3
+C-CDC-IPF100-Lu-3-1,Total reads after removing those found in reference database ,374294,after,IPF100.3
+C-CDC-NPF100-Lu-1-1,Total reads after trimming ,131948,before,NPF100.1
+C-CDC-NPF100-Lu-1-1,Total reads after removing those found in reference database ,131941,after,NPF100.1
+C-CDC-NPF100-Lu-2-1,Total reads after trimming ,291893,before,NPF100.2
+C-CDC-NPF100-Lu-2-1,Total reads after removing those found in reference database ,291747,after,NPF100.2
+C-CDC-NPF100-Lu-3-1,Total reads after trimming ,171365,before,NPF100.3
+C-CDC-NPF100-Lu-3-1,Total reads after removing those found in reference database ,171363,after,NPF100.3
+C-CDC-SNF100-Lu-2-1,Total reads after trimming ,14224,before,SNF100.2
+C-CDC-SNF100-Lu-2-1,Total reads after removing those found in reference database ,14221,after,SNF100.2
+C-CDC-SNF100-Lu-3-1,Total reads after trimming ,25190,before,SNF100.3
+C-CDC-SNF100-Lu-3-1,Total reads after removing those found in reference database ,25188,after,SNF100.3
+C-CDC-IPF100-Lu-swab-1,Total reads after trimming ,155971,before,IPF100.swab
+C-CDC-IPF100-Lu-swab-1,Total reads after removing those found in reference database ,155969,after,IPF100.swab
+C-CDC-INF100-Lu-1-1,Total reads after trimming ,136700,before,INF100.1
+C-CDC-INF100-Lu-1-1,Total reads after removing those found in reference database ,134781,after,INF100.1
+C-CDC-INF100-Lu-2-1,Total reads after trimming ,125179,before,INF100.2
+C-CDC-INF100-Lu-2-1,Total reads after removing those found in reference database ,122561,after,INF100.2
+C-CDC-INF100-Lu-3-1,Total reads after trimming ,181203,before,INF100.3
+C-CDC-INF100-Lu-3-1,Total reads after removing those found in reference database ,177581,after,INF100.3
+C-CDC-NNF100-Lu-1-1,Total reads after trimming ,179784,before,NNF100.1
+C-CDC-NNF100-Lu-1-1,Total reads after removing those found in reference database ,177411,after,NNF100.1
+C-CDC-NNF100-Lu-2-1,Total reads after trimming ,232559,before,NNF100.2
+C-CDC-NNF100-Lu-2-1,Total reads after removing those found in reference database ,228087,after,NNF100.2
+C-CDC-NNF100-Lu-3-1,Total reads after trimming ,9,before,NNF100.3
+C-CDC-NNF100-Lu-3-1,Total reads after removing those found in reference database ,9,after,NNF100.3
+C-CDC-SPF100-Lu-1-1,Total reads after trimming ,6,before,SPF100.1
+C-CDC-SPF100-Lu-1-1,Total reads after removing those found in reference database ,6,after,SPF100.1
+C-CDC-SPF100-Lu-2-1,Total reads after trimming ,18,before,SPF100.2
+C-CDC-SPF100-Lu-2-1,Total reads after removing those found in reference database ,18,after,SPF100.2
+C-CDC-SPF100-Lu-3-1,Total reads after trimming ,13,before,SPF100.3
+C-CDC-SPF100-Lu-3-1,Total reads after removing those found in reference database ,13,after,SPF100.3
+C-CDC-INF100-Lu-swab-1,Total reads after trimming ,343574,before,INF100.swab
+C-CDC-INF100-Lu-swab-1,Total reads after removing those found in reference database ,340080,after,INF100.swab
+C-CDC-NPF100-Lu-swab-1,Total reads after trimming ,230817,before,NPF100.swab
+C-CDC-NPF100-Lu-swab-1,Total reads after removing those found in reference database ,230816,after,NPF100.swab
+C-CDC-NNF100-Lu-swab-1,Total reads after trimming ,161141,before,NNF100.swab
+C-CDC-NNF100-Lu-swab-1,Total reads after removing those found in reference database ,158677,after,NNF100.swab
+C-CDC-IPF80-Lu-1-1,Total reads after trimming ,1146,before,IPF80.1
+C-CDC-IPF80-Lu-1-1,Total reads after removing those found in reference database ,1146,after,IPF80.1
+C-CDC-IPF80-Lu-2-1,Total reads after trimming ,6527,before,IPF80.2
+C-CDC-IPF80-Lu-2-1,Total reads after removing those found in reference database ,6526,after,IPF80.2
+C-CDC-IPF80-Lu-3-1,Total reads after trimming ,976,before,IPF80.3
+C-CDC-IPF80-Lu-3-1,Total reads after removing those found in reference database ,975,after,IPF80.3
+C-CDC-NPF80-Lu-1-1,Total reads after trimming ,23990,before,NPF80.1
+C-CDC-NPF80-Lu-1-1,Total reads after removing those found in reference database ,23989,after,NPF80.1
+C-CDC-NPF80-Lu-2-1,Total reads after trimming ,13210,before,NPF80.2
+C-CDC-NPF80-Lu-2-1,Total reads after removing those found in reference database ,13209,after,NPF80.2
+C-CDC-NPF80-Lu-3-1,Total reads after trimming ,13094,before,NPF80.3
+C-CDC-NPF80-Lu-3-1,Total reads after removing those found in reference database ,13094,after,NPF80.3
+C-CDC-INF80-Lu-1-1,Total reads after trimming ,10046,before,INF80.1
+C-CDC-INF80-Lu-1-1,Total reads after removing those found in reference database ,9982,after,INF80.1
+C-CDC-INF80-Lu-2-1,Total reads after trimming ,21804,before,INF80.2
+C-CDC-INF80-Lu-2-1,Total reads after removing those found in reference database ,21553,after,INF80.2
+C-CDC-INF80-Lu-3-1,Total reads after trimming ,275,before,INF80.3
+C-CDC-INF80-Lu-3-1,Total reads after removing those found in reference database ,275,after,INF80.3
+C-CDC-NNF80-Lu-1-1,Total reads after trimming ,5057,before,NNF80.1
+C-CDC-NNF80-Lu-1-1,Total reads after removing those found in reference database ,4989,after,NNF80.1
+C-CDC-NNF80-Lu-2-1,Total reads after trimming ,9451,before,NNF80.2
+C-CDC-NNF80-Lu-2-1,Total reads after removing those found in reference database ,9307,after,NNF80.2
+C-CDC-NNF80-Lu-3-1,Total reads after trimming ,1108,before,NNF80.3
+C-CDC-NNF80-Lu-3-1,Total reads after removing those found in reference database ,1099,after,NNF80.3
+C-CDC-SPF80-Lu-1-1,Total reads after trimming ,4,before,SPF80.1
+C-CDC-SPF80-Lu-1-1,Total reads after removing those found in reference database ,4,after,SPF80.1
+C-CDC-SPF80-Lu-2-1,Total reads after trimming ,2,before,SPF80.2
+C-CDC-SPF80-Lu-2-1,Total reads after removing those found in reference database ,2,after,SPF80.2
+C-CDC-SPF80-Lu-3-1,Total reads after trimming ,6,before,SPF80.3
+C-CDC-SPF80-Lu-3-1,Total reads after removing those found in reference database ,6,after,SPF80.3
+C-CDC-SNF80-Lu-1-1,Total reads after trimming ,303,before,SNF80.1
+C-CDC-SNF80-Lu-1-1,Total reads after removing those found in reference database ,303,after,SNF80.1
+C-CDC-SNF80-Lu-2-1,Total reads after trimming ,271,before,SNF80.2
+C-CDC-SNF80-Lu-2-1,Total reads after removing those found in reference database ,270,after,SNF80.2
+C-CDC-SNF80-Lu-3-1,Total reads after trimming ,826,before,SNF80.3
+C-CDC-SNF80-Lu-3-1,Total reads after removing those found in reference database ,825,after,SNF80.3
+C-CDC-IPF41-Lu-1-1,Total reads after trimming ,15571,before,IPF41.1
+C-CDC-IPF41-Lu-1-1,Total reads after removing those found in reference database ,15571,after,IPF41.1
+C-CDC-IPF41-Lu-2-1,Total reads after trimming ,11918,before,IPF41.2
+C-CDC-IPF41-Lu-2-1,Total reads after removing those found in reference database ,11898,after,IPF41.2
+C-CDC-IPF41-Lu-3-1,Total reads after trimming ,3158,before,IPF41.3
+C-CDC-IPF41-Lu-3-1,Total reads after removing those found in reference database ,3158,after,IPF41.3
+C-CDC-NPF41-Lu-1-1,Total reads after trimming ,31175,before,NPF41.1
+C-CDC-NPF41-Lu-1-1,Total reads after removing those found in reference database ,31174,after,NPF41.1
+C-CDC-NPF41-Lu-2-1,Total reads after trimming ,31776,before,NPF41.2
+C-CDC-NPF41-Lu-2-1,Total reads after removing those found in reference database ,31761,after,NPF41.2
+C-CDC-NPF41-Lu-3-1,Total reads after trimming ,11919,before,NPF41.3
+C-CDC-NPF41-Lu-3-1,Total reads after removing those found in reference database ,11918,after,NPF41.3
+C-CDC-INF41-Lu-1-1,Total reads after trimming ,48796,before,INF41.1
+C-CDC-INF41-Lu-1-1,Total reads after removing those found in reference database ,48520,after,INF41.1
+C-CDC-INF41-Lu-2-1,Total reads after trimming ,918,before,INF41.2
+C-CDC-INF41-Lu-2-1,Total reads after removing those found in reference database ,913,after,INF41.2
+C-CDC-INF41-Lu-3-1,Total reads after trimming ,1842,before,INF41.3
+C-CDC-INF41-Lu-3-1,Total reads after removing those found in reference database ,1830,after,INF41.3
+C-CDC-NNF41-Lu-1-1,Total reads after trimming ,9292,before,NNF41.1
+C-CDC-NNF41-Lu-1-1,Total reads after removing those found in reference database ,9186,after,NNF41.1
+C-CDC-NNF41-Lu-2-1,Total reads after trimming ,2356,before,NNF41.2
+C-CDC-NNF41-Lu-2-1,Total reads after removing those found in reference database ,2332,after,NNF41.2
+C-CDC-NNF41-Lu-3-1,Total reads after trimming ,5045,before,NNF41.3
+C-CDC-NNF41-Lu-3-1,Total reads after removing those found in reference database ,4980,after,NNF41.3
+C-CDC-SPF41-Lu-1-1,Total reads after trimming ,20,before,SPF41.1
+C-CDC-SPF41-Lu-1-1,Total reads after removing those found in reference database ,20,after,SPF41.1
+C-CDC-SPF41-Lu-2-1,Total reads after trimming ,5,before,SPF41.2
+C-CDC-SPF41-Lu-2-1,Total reads after removing those found in reference database ,5,after,SPF41.2
+C-CDC-SPF41-Lu-3-1,Total reads after trimming ,11,before,SPF41.3
+C-CDC-SPF41-Lu-3-1,Total reads after removing those found in reference database ,11,after,SPF41.3
+C-CDC-SNF41-Lu-1-1,Total reads after trimming ,5061,before,SNF41.1
+C-CDC-SNF41-Lu-1-1,Total reads after removing those found in reference database ,5059,after,SNF41.1
+C-CDC-SNF41-Lu-2-1,Total reads after trimming ,2507,before,SNF41.2
+C-CDC-SNF41-Lu-2-1,Total reads after removing those found in reference database ,2505,after,SNF41.2
+C-CDC-SNF41-Lu-3-1,Total reads after trimming ,915,before,SNF41.3
+C-CDC-SNF41-Lu-3-1,Total reads after removing those found in reference database ,914,after,SNF41.3
+C-CDC-IPF5-Lu-1-1,Total reads after trimming ,194753,before,IPF5.1
+C-CDC-IPF5-Lu-1-1,Total reads after removing those found in reference database ,194753,after,IPF5.1
+C-CDC-IPF5-Lu-3-1,Total reads after trimming ,306974,before,IPF5.3
+C-CDC-IPF5-Lu-3-1,Total reads after removing those found in reference database ,306974,after,IPF5.3
+C-CDC-IPF-Lu-1-1,Total reads after trimming ,240500,before,IPF.1
+C-CDC-IPF-Lu-1-1,Total reads after removing those found in reference database ,240500,after,IPF.1
+C-CDC-IPF-Lu-2-1,Total reads after trimming ,231991,before,IPF.2
+C-CDC-IPF-Lu-2-1,Total reads after removing those found in reference database ,231991,after,IPF.2
+C-CDC-IPF-Lu-3-1,Total reads after trimming ,168188,before,IPF.3
+C-CDC-IPF-Lu-3-1,Total reads after removing those found in reference database ,168188,after,IPF.3
+C-CDC-NPF5-Lu-1-1,Total reads after trimming ,210049,before,NPF5.1
+C-CDC-NPF5-Lu-1-1,Total reads after removing those found in reference database ,210049,after,NPF5.1
+C-CDC-NPF5-Lu-2-1,Total reads after trimming ,186375,before,NPF5.2
+C-CDC-NPF5-Lu-2-1,Total reads after removing those found in reference database ,186374,after,NPF5.2
+C-CDC-NPF5-Lu-3-1,Total reads after trimming ,143509,before,NPF5.3
+C-CDC-NPF5-Lu-3-1,Total reads after removing those found in reference database ,143508,after,NPF5.3
+C-CDC-NPF-Lu-1-1,Total reads after trimming ,215581,before,NPF.1
+C-CDC-NPF-Lu-1-1,Total reads after removing those found in reference database ,215581,after,NPF.1
+C-CDC-NPF-Lu-2-1,Total reads after trimming ,256530,before,NPF.2
+C-CDC-NPF-Lu-2-1,Total reads after removing those found in reference database ,256529,after,NPF.2
+C-CDC-NPF-Lu-3-1,Total reads after trimming ,179999,before,NPF.3
+C-CDC-NPF-Lu-3-1,Total reads after removing those found in reference database ,179998,after,NPF.3
+C-CDC-SNF5-Lu-1-1,Total reads after trimming ,199826,before,SNF5.1
+C-CDC-SNF5-Lu-1-1,Total reads after removing those found in reference database ,199763,after,SNF5.1
+C-CDC-SNF5-Lu-2-1,Total reads after trimming ,298801,before,SNF5.2
+C-CDC-SNF5-Lu-2-1,Total reads after removing those found in reference database ,298656,after,SNF5.2
+C-CDC-INF5-Lu-1-1,Total reads after trimming ,188965,before,INF5.1
+C-CDC-INF5-Lu-1-1,Total reads after removing those found in reference database ,188842,after,INF5.1
+C-CDC-INF5-Lu-2-1,Total reads after trimming ,212756,before,INF5.2
+C-CDC-INF5-Lu-2-1,Total reads after removing those found in reference database ,212665,after,INF5.2
+C-CDC-INF-Lu-1-1,Total reads after trimming ,178653,before,INF.1
+C-CDC-INF-Lu-1-1,Total reads after removing those found in reference database ,177397,after,INF.1
+C-CDC-INF-Lu-2-1,Total reads after trimming ,155620,before,INF.2
+C-CDC-INF-Lu-2-1,Total reads after removing those found in reference database ,154289,after,INF.2
+C-CDC-INF-Lu-3-1,Total reads after trimming ,182487,before,INF.3
+C-CDC-INF-Lu-3-1,Total reads after removing those found in reference database ,180574,after,INF.3
+C-CDC-NNF5-Lu-1-1,Total reads after trimming ,203227,before,NNF5.1
+C-CDC-NNF5-Lu-1-1,Total reads after removing those found in reference database ,202959,after,NNF5.1
+C-CDC-NNF5-Lu-2-1,Total reads after trimming ,262985,before,NNF5.2
+C-CDC-NNF5-Lu-2-1,Total reads after removing those found in reference database ,262670,after,NNF5.2
+C-CDC-NNF5-Lu-3-1,Total reads after trimming ,221158,before,NNF5.3
+C-CDC-NNF5-Lu-3-1,Total reads after removing those found in reference database ,220822,after,NNF5.3
+C-CDC-NNF-Lu-2-1,Total reads after trimming ,162753,before,NNF.2
+C-CDC-NNF-Lu-2-1,Total reads after removing those found in reference database ,160674,after,NNF.2
+C-CDC-NNF-Lu-3-1,Total reads after trimming ,125438,before,NNF.3
+C-CDC-NNF-Lu-3-1,Total reads after removing those found in reference database ,124287,after,NNF.3
+C-CDC-SPF5-Lu-1-1,Total reads after trimming ,243,before,SPF5.1
+C-CDC-SPF5-Lu-1-1,Total reads after removing those found in reference database ,243,after,SPF5.1
+C-CDC-SPF5-Lu-2-1,Total reads after trimming ,239,before,SPF5.2
+C-CDC-SPF5-Lu-2-1,Total reads after removing those found in reference database ,239,after,SPF5.2
+C-CDC-SPF5-Lu-3-1,Total reads after trimming ,478,before,SPF5.3
+C-CDC-SPF5-Lu-3-1,Total reads after removing those found in reference database ,477,after,SPF5.3
+C-CDC-SPF-Lu-1-1,Total reads after trimming ,4156,before,SPF.1
+C-CDC-SPF-Lu-1-1,Total reads after removing those found in reference database ,4154,after,SPF.1
+C-CDC-SPF-Lu-2-1,Total reads after trimming ,5219,before,SPF.2
+C-CDC-SPF-Lu-2-1,Total reads after removing those found in reference database ,5212,after,SPF.2
+C-CDC-SPF-Lu-3-1,Total reads after trimming ,4670,before,SPF.3
+C-CDC-SPF-Lu-3-1,Total reads after removing those found in reference database ,4664,after,SPF.3
+C-CDC-SNF-Lu-1-1,Total reads after trimming ,324708,before,SNF.1
+C-CDC-SNF-Lu-1-1,Total reads after removing those found in reference database ,324704,after,SNF.1
+C-CDC-SNF-Lu-3-1,Total reads after trimming ,144919,before,SNF.3
+C-CDC-SNF-Lu-3-1,Total reads after removing those found in reference database ,144918,after,SNF.3
+C-CDC-NNF-Lu-1-1,Total reads after trimming ,133601,before,NNF.1
+C-CDC-NNF-Lu-1-1,Total reads after removing those found in reference database ,132025,after,NNF.1
+C-CDC-INF5-Lu-3-1,Total reads after trimming ,170848,before,INF5.3
+C-CDC-INF5-Lu-3-1,Total reads after removing those found in reference database ,170814,after,INF5.3
+C-CDC-SNF-Lu-2-1,Total reads after trimming ,159263,before,SNF.2
+C-CDC-SNF-Lu-2-1,Total reads after removing those found in reference database ,159262,after,SNF.2
